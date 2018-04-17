@@ -1,1 +1,0 @@
-It Explains neccesity of Text Classification to solve real world problems. Different products which providing text clasification.
